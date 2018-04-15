@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="innovate" max_length="40" name="x_58872_needit_needit_tablet" type="collection">
+        <element label="New Integer" max_length="40" name="u_integer_1" type="integer"/>
+        <element label="New Integer" max_length="40" name="u_integer_2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="other" max_length="40" name="u_other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
+    </element>
+</database>
